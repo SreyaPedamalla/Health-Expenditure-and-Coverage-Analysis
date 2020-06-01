@@ -2,7 +2,7 @@
 
 # Introduction
 
-National health expenditure is the official estimate of health care expenses in the United States.  We have data for three categories of data included: 
+National health expenditure is the official estimate of health care expenses in the United States.  We have three categories of insursnce data. 
 1.	Medicare 
 2.	Medicaid 
 3.	Private Health Insurance
